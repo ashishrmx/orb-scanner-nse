@@ -8,6 +8,8 @@
 I've fully automated my **battle-tested 15-Minute Opening Range Breakout** engine that I traded manually for years.
 
 ## 🔥 Live Terminal Demo
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b8c0305-a4aa-4b44-ba86-2c84ac7ece7c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46585253-6f01-40c1-85a1-5e43ebdb0c84" />
 
 
 ## 🎯 Features
