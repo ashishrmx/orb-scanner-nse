@@ -1,7 +1,6 @@
 # 🚀 15-Min ORB Scanner (NSE F&O)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
-[![Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-brightgreen.svg)](https://vercel.com)
 
 **Discretionary intuition generates alpha. Algorithmic execution generates infinite scale.**
 
@@ -48,6 +47,7 @@ config.py → data_feed(yfinance) → scanner.py → scorer.py → display.py
                                                       ↓
                                               trade_plan.py
 📊 Scoring Engine (0-100)
+
 Factor	Weight	Perfect Score
 R:R	30pts	≥4:1
 Vol-X	25pts	≥2x average
