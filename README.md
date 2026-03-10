@@ -26,6 +26,14 @@ cd orb-scanner-nse
 pip install -r requirements.txt
 python main.py
 
+REQUIREMENTS: 
+yfinance>=0.2.36
+pandas>=2.0.0
+numpy>=1.24.0
+rich>=13.7.0
+requests>=2.31.0
+pytz>=2024.1
+
 🌐 Web Version (Coming Soon)
 
 FastAPI dashboard → Live NSE scans → Vercel deployment
