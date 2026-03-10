@@ -29,18 +29,21 @@ pip install -r requirements.txt
 python main.py
 
 REQUIREMENTS: 
-yfinance>=0.2.36
-pandas>=2.0.0
-numpy>=1.24.0
-rich>=13.7.0
-requests>=2.31.0
-pytz>=2024.1
+yfinance 0.2.36
+pandas 2.0.0
+numpy 1.24.0
+rich 13.7.0
+requests 2.31.0
+pytz 2024.1
+
+* Install these libraries on virtual environment 
 
 🌐 Web Version (Coming Soon)
 
 FastAPI dashboard → Live NSE scans → Vercel deployment
+
 🏗️ Architecture
-text
+
 config.py → data_feed(yfinance) → scanner.py → scorer.py → display.py
                                                       ↓
                                               trade_plan.py
@@ -78,8 +81,10 @@ orb-scanner-nse/
 ├── data_feed.py     # yfinance NSE data
 ├── requirements.txt
 └── README.md
+
 🚀 Roadmap
- Terminal scanner + scoring (Live!)
+
+Terminal scanner + scoring (Live!)
 
  Pro UI with bordered score bars
 
