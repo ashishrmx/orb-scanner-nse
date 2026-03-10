@@ -73,14 +73,6 @@ orb-scanner-nse/
 
  Pro UI with bordered score bars
 
- Web dashboard (FastAPI + Vercel)
-
- Broker APIs (Zerodha Kite/Breeze/ICICI)
-
- Live auto-trading + position sizing
-
- Backtester + Sharpe ratio optimization
-
 🤝 Built By
 Ashish
 Quant Developer | Algorithmic Trading | Python | NSE F&O
